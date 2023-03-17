@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7OV6rW8btgpYOEA7p90Pz93yiHuW36l52wENcPCIpk2KPLxKc3bCZbGorWVwEYmcvK5OTSuGLuaRwTWLVL1GJQ==",
+  "dgSpecHash": "DFwfSTOe5OhBi5aejScqBLV+RZmNF/VT6UrjQVhvz/yRpi5yGTyHrk76HbK9gz55MTm8ep7TNa6ZsLgecmTPag==",
   "success": true,
-  "projectFilePath": "C:\\Users\\vpn-swiftdigital\\Desktop\\Aldagi\\AldagiTest\\Domain\\Domain.csproj",
+  "projectFilePath": "C:\\Users\\vpn-swiftdigital\\Desktop\\AldagiGIt\\Domain\\Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnetcore.http.features\\2.2.0\\microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",

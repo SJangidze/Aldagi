@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UqvT3FrZP4utLWgIfs6nmF3g6B6dhALj9QHPRIYok8HntIfnF7jLjAYb3NXPlNuUnNFLjWvNsOa/BwXP+N9RqA==",
+  "dgSpecHash": "UwdLK/4X5ZE8ngL9SF86NOFIIQ9rEsY0j/nrFU6CMCzSTgXVl8f78jrt8usxAQNyrHAgaJ8UeYSkKWm3nN+k6Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\vpn-swiftdigital\\Desktop\\Aldagi\\AldagiTest\\Aldagi\\Aldagi.csproj",
+  "projectFilePath": "C:\\Users\\vpn-swiftdigital\\Desktop\\AldagiGIt\\Aldagi\\Aldagi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vpn-swiftdigital\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\vpn-swiftdigital\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

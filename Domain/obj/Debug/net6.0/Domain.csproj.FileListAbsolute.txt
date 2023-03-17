@@ -46,3 +46,15 @@ C:\Users\vpn-swiftdigital\Desktop\Aldagi\AldagiTest\Domain\obj\Debug\net6.0\Doma
 C:\Users\vpn-swiftdigital\Desktop\Aldagi\AldagiTest\Domain\obj\Debug\net6.0\refint\Domain.dll
 C:\Users\vpn-swiftdigital\Desktop\Aldagi\AldagiTest\Domain\obj\Debug\net6.0\Domain.pdb
 C:\Users\vpn-swiftdigital\Desktop\Aldagi\AldagiTest\Domain\obj\Debug\net6.0\ref\Domain.dll
+C:\Users\vpn-swiftdigital\Desktop\AldagiGIt\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Users\vpn-swiftdigital\Desktop\AldagiGIt\Domain\bin\Debug\net6.0\Domain.dll
+C:\Users\vpn-swiftdigital\Desktop\AldagiGIt\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Users\vpn-swiftdigital\Desktop\AldagiGIt\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\Users\vpn-swiftdigital\Desktop\AldagiGIt\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vpn-swiftdigital\Desktop\AldagiGIt\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Users\vpn-swiftdigital\Desktop\AldagiGIt\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Users\vpn-swiftdigital\Desktop\AldagiGIt\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\vpn-swiftdigital\Desktop\AldagiGIt\Domain\obj\Debug\net6.0\Domain.dll
+C:\Users\vpn-swiftdigital\Desktop\AldagiGIt\Domain\obj\Debug\net6.0\refint\Domain.dll
+C:\Users\vpn-swiftdigital\Desktop\AldagiGIt\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Users\vpn-swiftdigital\Desktop\AldagiGIt\Domain\obj\Debug\net6.0\ref\Domain.dll

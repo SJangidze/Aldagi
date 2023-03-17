@@ -17,9 +17,17 @@ public class PolicyController : ControllerBase
     }
 
     [HttpGet]
-    public async Task<IActionResult> Get([FromBody]PolicyDate date)
+    public async Task<IActionResult> GetPolicies(int year, int month)
     {
-        var result = await _policyService.GetMonthPolicies(date.Year, date.Month);
+        var result = await _policyService.GetMonthPolicies(year, month);
+
+        return Ok(result);
+    }
+
+    [HttpGet("Quarter")]
+    public async Task<IActionResult> GetPoliciesByQuarter(int year, int quarter)
+    {
+        var result = await _policyService.GetQuarterPolicies(year, quarter);
 
         return Ok(result);
     }

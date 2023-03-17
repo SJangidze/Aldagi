@@ -4464,11 +4464,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vpn-swiftdigital\\Desktop\\Aldagi\\AldagiTest\\Aldagi\\Aldagi.csproj",
+      "projectUniqueName": "C:\\Users\\vpn-swiftdigital\\Desktop\\AldagiGIt\\Aldagi\\Aldagi.csproj",
       "projectName": "Aldagi",
-      "projectPath": "C:\\Users\\vpn-swiftdigital\\Desktop\\Aldagi\\AldagiTest\\Aldagi\\Aldagi.csproj",
+      "projectPath": "C:\\Users\\vpn-swiftdigital\\Desktop\\AldagiGIt\\Aldagi\\Aldagi.csproj",
       "packagesPath": "C:\\Users\\vpn-swiftdigital\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vpn-swiftdigital\\Desktop\\Aldagi\\AldagiTest\\Aldagi\\obj\\",
+      "outputPath": "C:\\Users\\vpn-swiftdigital\\Desktop\\AldagiGIt\\Aldagi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -4490,11 +4490,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\vpn-swiftdigital\\Desktop\\Aldagi\\AldagiTest\\Application\\Application.csproj": {
-              "projectPath": "C:\\Users\\vpn-swiftdigital\\Desktop\\Aldagi\\AldagiTest\\Application\\Application.csproj"
+            "C:\\Users\\vpn-swiftdigital\\Desktop\\AldagiGIt\\Application\\Application.csproj": {
+              "projectPath": "C:\\Users\\vpn-swiftdigital\\Desktop\\AldagiGIt\\Application\\Application.csproj"
             },
-            "C:\\Users\\vpn-swiftdigital\\Desktop\\Aldagi\\AldagiTest\\Infrastructure\\Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\vpn-swiftdigital\\Desktop\\Aldagi\\AldagiTest\\Infrastructure\\Infrastructure.csproj"
+            "C:\\Users\\vpn-swiftdigital\\Desktop\\AldagiGIt\\Infrastructure\\Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\vpn-swiftdigital\\Desktop\\AldagiGIt\\Infrastructure\\Infrastructure.csproj"
             }
           }
         }
